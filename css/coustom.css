@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.shadow-set{
+    box-shadow: 0px 42px 34px rgba(63, 136, 245, 0.324);
+}
+.shadwo-set0{
+    box-shadow: 0px 12px 30px rgba(0, 0, 0, 0.194);
+}
